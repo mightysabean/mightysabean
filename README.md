@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mightysabean
 - 👀 I’m interested in .Net Core and .NET Framework Development for Mobile, Web and Desktop
 - 🌱 I’m currently learning Windows Form Application development using C# and .NET 
-- 💞️ I’m looking to collaborate on connecting Azure Cloud Servers with a Windows Form Application
+- 💞️ I’m looking to collaborate on how to connect Azure Cloud Servers with a Windows Form Application
 - 📫 How to reach me .. oluseyi.ajala@yahoo.com
 
 <!---
